@@ -1,4 +1,8 @@
-body {
+#home-page {
+  background-color: rgb(52, 13, 13);
+}
+
+#feed-page {
   background-image: url("../img/jjazzbar.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
