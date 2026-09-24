@@ -1,0 +1,83 @@
+body {
+  background-image: url(/img/jjazzbar.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  justify-content: center;
+  column-count: 3;
+  column-gap: 1000px;
+  text-align: justify;
+}
+
+h2 {
+  color: beige;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 80pt;
+  text-align: center;
+  width: 500px 500px 500px 500px;
+}
+p {
+  color: beige;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 40pt;
+  width: 500px;
+  margin: 50px;
+  padding: 20px;
+}
+
+.left {
+  width: 700px;
+  margin: 40px;
+  margin-top: 40px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  padding: 24px;
+  border: 30px solid #e2d4b7;
+  border-radius: 15px;
+  box-sizing: border-box;
+  background: #75704e;
+}
+.center {
+  width: 700px;
+  margin: 40px;
+  margin-top: 40px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  padding: 24px;
+  border: 30px solid #75704e;
+  border-radius: 15px;
+  box-sizing: border-box;
+  background: #13070c;
+}
+.right {
+  width: 700px;
+  margin: 40px;
+  margin-top: 40px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  padding: 24px;
+  border: 30px solid #e2d4b7;
+  border-radius: 15px;
+  box-sizing: border-box;
+  background: #75704e;
+}
+
+video {
+  height: auto;
+  width: 7800px;
+  margin: 0 auto;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  max-width: 100%;
+  padding: 50px auto 50px auto;
+  padding-top: 50px;
+  padding-right: auto;
+  padding-bottom: 50px;
+  padding-left: auto;
+  display: inline;
+}
